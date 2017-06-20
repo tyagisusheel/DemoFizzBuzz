@@ -49,10 +49,8 @@ namespace DemoFizzBuzz
                             if (result.Length > 0)
                                 Console.WriteLine("\n" + result);
                         }
-
                     }
                 }
-
             }
             catch (Exception ex)
             {
