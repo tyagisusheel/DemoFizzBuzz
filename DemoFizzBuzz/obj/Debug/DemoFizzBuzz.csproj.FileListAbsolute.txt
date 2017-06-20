@@ -8,3 +8,4 @@ C:\Github\PHM\DemoFizzBuzz\DemoFizzBuzz\obj\Debug\DemoFizzBuzz.exe
 C:\Github\PHM\DemoFizzBuzz\DemoFizzBuzz\obj\Debug\DemoFizzBuzz.pdb
 C:\Github\PHM\DemoFizzBuzz\DemoFizzBuzz\bin\Debug\DemoFizzBuzz.exe
 C:\Github\PHM\DemoFizzBuzz\DemoFizzBuzz\bin\Debug\DemoFizzBuzz.pdb
+C:\Github\PHM\DemoFizzBuzz\DemoFizzBuzz\obj\Debug\DemoFizzBuzz.csprojResolveAssemblyReference.cache

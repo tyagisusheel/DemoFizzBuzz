@@ -8,3 +8,4 @@ C:\Github\PHM\DemoFizzBuzz\UnitTestDemoFizzBuzz\bin\Debug\UnitTestDemoFizzBuzz.p
 C:\Github\PHM\DemoFizzBuzz\UnitTestDemoFizzBuzz\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Github\PHM\DemoFizzBuzz\UnitTestDemoFizzBuzz\obj\Debug\UnitTestDemoFizzBuzz.dll
 C:\Github\PHM\DemoFizzBuzz\UnitTestDemoFizzBuzz\obj\Debug\UnitTestDemoFizzBuzz.pdb
+C:\Github\PHM\DemoFizzBuzz\UnitTestDemoFizzBuzz\obj\Debug\UnitTestDemoFizzBuzz.csprojResolveAssemblyReference.cache
