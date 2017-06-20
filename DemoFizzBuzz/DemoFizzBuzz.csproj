@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FactoryFizzBuzz.cs" />
     <Compile Include="FizzBuzzMultipleFive.cs" />
     <Compile Include="FizzBuzzMultipleThree.cs" />
     <Compile Include="IFizzBuzz.cs" />
