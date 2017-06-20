@@ -1,5 +1,5 @@
 ﻿// ===============================
-// AUTHOR           : Susheel Tyagi
+// AUTHOR           : Susheel Tyagi (tyagisusheel@gmail.com)
 // CREATE DATE      : 20/06/2017
 // PURPOSE          : Demo Application for Test ability
 // SPECIAL NOTES    : This is Console Based Application for FizzBuzz with Dot.Net best practices, Software Development 
