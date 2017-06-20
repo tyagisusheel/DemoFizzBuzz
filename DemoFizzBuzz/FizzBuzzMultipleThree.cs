@@ -20,7 +20,7 @@ namespace DemoFizzBuzz
         /// <summary>
         /// If the entered number is a multiple of "3" there will be a response of Fizz
         /// Implementation of ParseNumber() method as per defined in "IFizzBuzz" for
-        /// find the number is valid multiple of 3 
+        /// find the number is valid multiple of  3 
         /// </summary>
         /// <param name="number"> Valid numeric value for parset </param>
         /// <param name="result"> String input as a return type. Default is empty </param>
