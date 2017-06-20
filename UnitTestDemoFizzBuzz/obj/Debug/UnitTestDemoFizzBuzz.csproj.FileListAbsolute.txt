@@ -1,0 +1,10 @@
+C:\Github\DemoFizzBuzz\UnitTestDemoFizzBuzz\bin\Debug\UnitTestDemoFizzBuzz.dll
+C:\Github\DemoFizzBuzz\UnitTestDemoFizzBuzz\bin\Debug\UnitTestDemoFizzBuzz.pdb
+C:\Github\DemoFizzBuzz\UnitTestDemoFizzBuzz\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Github\DemoFizzBuzz\UnitTestDemoFizzBuzz\obj\Debug\UnitTestDemoFizzBuzz.dll
+C:\Github\DemoFizzBuzz\UnitTestDemoFizzBuzz\obj\Debug\UnitTestDemoFizzBuzz.pdb
+C:\Github\PHM\DemoFizzBuzz\UnitTestDemoFizzBuzz\bin\Debug\UnitTestDemoFizzBuzz.dll
+C:\Github\PHM\DemoFizzBuzz\UnitTestDemoFizzBuzz\bin\Debug\UnitTestDemoFizzBuzz.pdb
+C:\Github\PHM\DemoFizzBuzz\UnitTestDemoFizzBuzz\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Github\PHM\DemoFizzBuzz\UnitTestDemoFizzBuzz\obj\Debug\UnitTestDemoFizzBuzz.dll
+C:\Github\PHM\DemoFizzBuzz\UnitTestDemoFizzBuzz\obj\Debug\UnitTestDemoFizzBuzz.pdb
