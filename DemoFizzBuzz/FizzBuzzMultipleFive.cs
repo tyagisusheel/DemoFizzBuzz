@@ -12,15 +12,15 @@
 
 using System;
 
+
 namespace DemoFizzBuzz
 {
-    public class FizzBuzzMultipleThree : IFizzBuzz
+   public  class FizzBuzzMultipleFive : IFizzBuzz
     {
-
         /// <summary>
-        /// If the entered number is a multiple of "3" there will be a response of Fizz
+        /// If the entered number is a multiple of "5" there will be a response of Fizz
         /// Implementation of ParseNumber() method as per defined in "IFizzBuzz" for
-        /// find the number is valid multiple of 3 
+        /// find the number is valid multiple of 5 
         /// </summary>
         /// <param name="number"> Valid numeric value for parset </param>
         /// <param name="result"> String input as a return type. Default is empty </param>
@@ -29,14 +29,14 @@ namespace DemoFizzBuzz
         {
             try
             {
-                if (number % 3 == 0)
+                if (number % 5 == 0)
                 {
-                    result = result + " Fizz";
-                }             
+                    result = result + " Buzz";
+                }
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message); 
+                Console.WriteLine(ex.Message);
             }
             return result;
         }
