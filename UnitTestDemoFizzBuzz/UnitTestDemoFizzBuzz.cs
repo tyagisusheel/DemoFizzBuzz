@@ -36,5 +36,19 @@ namespace UnitTestDemoFizzBuzz
 
             Assert.AreEqual(expected, original);
         }
+
+        // Cretaed the test case for FizzBuzzMultipleFive. 
+        // Test case Pass for any Valid input value (Multiple of 5), like 5,10,15,30,35 with update expected result 
+        [TestMethod]
+        public void TestMethod_MultipleOfFive()
+        {
+            string expected = " Buzz";
+            string original = string.Empty;
+            int value = 10;
+
+            original = objMultipleFive.ParseNumber(value, original);
+
+            Assert.AreEqual(expected, original);
+        }
     }
 }
